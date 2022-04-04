@@ -20,3 +20,15 @@ int main(void) {
   printf("* Letras maiusculas ou minusculas, tanto faz!! \n");
   printf("----------------------------------------------\n");
 
+while(parar[0]!='s'){
+
+    printf("\n");
+    printf("Digite a palavra: ");
+    scanf("%s", palavra);
+    printf("\n");
+    printf("-Confira o resultado abaixo-\n");
+  
+    for (int i=0; palavra[i]; i++){
+
+      palavra[i]=tolower(palavra[i]);
+

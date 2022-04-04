@@ -32,3 +32,136 @@ while(parar[0]!='s'){
 
       palavra[i]=tolower(palavra[i]);
 
+//Testando se separa!!
+      //printf("Letras separadas da string = %c\n", palavra[i]);
+    
+      if(palavra[i]=='a'){
+      
+        printf("#2=1\n");
+      }
+
+      if(palavra[i]=='b'){
+      
+        printf("#2=2\n");
+      }
+
+      if(palavra[i]=='c'){
+      
+        printf("#2=3\n");
+      }
+
+      if(palavra[i]=='d'){
+      
+        printf("#3=1\n");
+      }
+
+      if(palavra[i]=='e'){
+      
+        printf("#3=2\n");
+      }
+
+      if(palavra[i]=='f'){
+      
+        printf("#3=3\n");
+      }
+
+      if(palavra[i]=='g'){
+      
+        printf("#4=1\n");
+      }
+
+      if(palavra[i]=='h'){
+      
+        printf("#4=2\n");
+      }
+
+      if(palavra[i]=='i'){
+      
+        printf("#4=3\n");
+      }
+
+      if(palavra[i]=='j'){
+      
+        printf("#5=1\n");
+      }
+
+      if(palavra[i]=='k'){
+      
+        printf("#5=2\n");
+      }
+
+      if(palavra[i]=='l'){
+      
+        printf("#5=3\n");
+      }
+      
+      if(palavra[i]=='m'){
+      
+        printf("#6=1\n");
+      }
+      
+      if(palavra[i]=='n'){
+      
+        printf("#6=2\n");
+      }
+      
+      if(palavra[i]=='o'){
+      
+        printf("#6=3\n");
+      }
+      
+      if(palavra[i]=='p'){
+      
+        printf("#7=1\n");
+      }
+      
+      if(palavra[i]=='q'){
+      
+        printf("#7=2\n");
+      }
+      
+      if(palavra[i]=='r'){
+      
+        printf("#7=3\n");
+      }
+      
+      if(palavra[i]=='s'){
+      
+        printf("#7=4\n");
+      }
+      
+      if(palavra[i]=='t'){
+      
+        printf("#8=1\n");
+      }
+      
+      if(palavra[i]=='u'){
+      
+        printf("#8=2\n");
+      }
+      
+      if(palavra[i]=='v'){
+      
+        printf("#8=3\n");
+      }
+      
+      if(palavra[i]=='w'){
+      
+        printf("#9=1\n");
+      }
+      
+      if(palavra[i]=='x'){
+      
+        printf("#9=2\n");
+      }
+      
+      if(palavra[i]=='y'){
+      
+        printf("#9=3\n");
+      }
+      
+      if(palavra[i]=='z'){
+      
+        printf("#9=4\n");
+      }
+    }

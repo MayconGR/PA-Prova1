@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+/*
+char n2[4]="abc", n3[4]="def", n4[4]="ghi", n5[4]="jkl", n6[4]="mno", 
+n7[5]="pqrs", n8[4]="tuv", n9[5]="wxyz";
+*/
+
+char palavra[];
+
+char parar[]="n";
+
+int main(void) {
+
+  printf("\n");  
+  printf("------------------- Avisos -------------------\n");
+  printf("* Palavras apenas com Letras!! \n");
+  printf("* Uma palavra por vez!! \n");
+  printf("* Letras maiusculas ou minusculas, tanto faz!! \n");
+  printf("----------------------------------------------\n");
+

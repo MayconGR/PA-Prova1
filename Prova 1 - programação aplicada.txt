@@ -165,3 +165,20 @@ while(parar[0]!='s'){
         printf("#9=4\n");
       }
     }
+
+printf("\n");
+    printf("Deseja parar o programa? Sim ou Não?\n");
+    scanf("%s", parar);
+
+    parar[0]=tolower(parar[0]);
+
+  }
+
+  printf("\n");
+  printf("Muito obrigado por usar nosso programa!!");
+  printf("\n");
+  printf("Até a próxima!!");
+  printf("\n");
+  
+  return 0;
+}
